@@ -1,0 +1,29 @@
+{
+    "name": "marrty-llc-website",
+    "version": "1.0.0",
+    "description": "Official website for Marrty LLC, a software company based in San Jose, California, USA.",
+    "main": "index.html",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marrtyllc/marrty-llc-website.git"
+    },
+    "keywords": [
+        "marrty",
+        "llc",
+        "software",
+        "company",
+        "website"
+    ],
+    "author": "Marrty LLC",
+    "license": "Custom License - Not for reproduction",
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
+
+  
